@@ -42,13 +42,13 @@ Prédiction du risque de défaut de paiement à l’aide du machine learning.
 ## 3. Prédiction du Parti Politique gagnant aux élections (USA 2020)
 ## Description
 Modèle prédictif basé sur des données socio-démographiques.
-## Technologies: Python, Scikit-learn, Seaborn
+## Technologies: Python, Scikit-learn, Seaborn 
 
 
 
 ## 🧠 Objectif du Portfolio
 Ce portfolio a pour but de :
-  + Présenter mes projets personnels et académiques.
+  + Présenter mes projets personnels 
   + Illustrer mes compétences techniques et analytiques.
   + Partager mes réflexions et travaux autour de la Data Science appliquée au marketing
 
