@@ -1,9 +1,9 @@
 👋 Bienvenue sur mon Portfolio GitHub !
-Je suis Brème Rivina MOUYARI NTSIBA, Data Scientist spécialisé en marketing digital.
-Je combine analyse de données, machine learning et intelligence artificielle pour aider les entreprises à comprendre, prédire et améliorer leurs performances marketing.
+Je suis Brème Rivina MOUYARI NTSIBA, Data Scientist.
+Je combine analyse de données, machine learning et intelligence artificielle pour aider les entreprises à comprendre, prédire et améliorer leurs performances.
 
 ## 🔹 Domaines d’intérêt  :
-Data Science | Marketing Digital | Machine Learning | Business Intelligence | IA appliquée
+Data Science| Machine Learning | Business Intelligence | IA appliquée
 
 
 
